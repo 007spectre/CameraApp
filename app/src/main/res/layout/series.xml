@@ -1,0 +1,51 @@
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    android:layout_marginTop="?attr/actionBarSize"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+    <Button
+        android:id="@+id/game"
+
+        android:text="Conversation Game"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:layout_marginTop="70dp"
+
+android:visibility="gone"
+        android:layout_width="250dp"
+        android:layout_height="100dp"
+        android:background="@color/primaryColor"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal"
+
+        />
+
+    <Button
+        android:id="@+id/test"
+
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_gravity="center"
+android:layout_marginTop="30dp"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:background="@drawable/icon"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:gravity="center_horizontal"
+        android:textSize="18sp"
+        android:textColor="@color/secondaryText"
+        android:text="Tap on the image to open Camera"/>
+
+</LinearLayout>

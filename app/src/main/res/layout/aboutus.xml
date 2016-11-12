@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+
+    <include
+        android:id="@+id/app_bar"
+        layout="@layout/app_bar" />
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="10">
+
+
+        <com.example.saurabhgoyal.buyhatkeproject.RoundedImageView
+            android:id="@+id/aboutUsImage"
+            android:layout_width="100dp"
+            android:layout_height="100dp"  android:layout_margin="10dp"
+            android:layout_marginTop="15dp" android:layout_gravity="center"
+            android:src="@drawable/saurabh" />
+
+
+
+
+
+     <View
+             android:layout_width="fill_parent"
+             android:layout_height="2dp"
+             android:background="@color/colorAccent"/>
+
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/card_view"
+            android:layout_gravity="center"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+              >
+
+
+            <TextView
+                android:text="Saurabh Goyal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                 android:textSize="18sp"
+                />
+
+
+        
+  </android.support.v7.widget.CardView>
+    
+   
+
+    <View
+             android:layout_width="fill_parent"
+             android:layout_height="2dp"
+             android:background="@color/colorAccent"/>
+
+
+
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/card_view1"
+            android:layout_gravity="center"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dp"
+            android:layout_marginLeft="7dp"
+            android:layout_marginRight="7dp"
+
+
+            >
+
+
+            <TextView
+                android:id="@+id/aboutUsCompanyEmailAddress2"
+                   android:textColor="@color/secondaryText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.75"
+                android:text="@string/companyEmailAddress"
+                android:textSize="16sp" />
+             </android.support.v7.widget.CardView>
+
+
+
+
+
+
+
+
+
+   
+</LinearLayout>
+
+</LinearLayout>

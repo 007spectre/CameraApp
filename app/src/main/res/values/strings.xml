@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Camera App</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="companyEmailAddress">I am working as an Android Developer in Culture Alley(Hello English).Two more internships in Appzster and CoreApps Lab.
+The key strengths:
+1) Successfully developed 5 live Applications.
+2)Worked on Libraries including  tesseract-OCR, Epub ,pdf,Facebook and Gmail integration, payment gateway
+Live Apps in PlayStore:-
+Hello English App:-https://goo.gl/sZP3p9
+Restaurant with home delivery App: https://goo.gl/Udbs1j
+M-Book reading App:  https://goo.gl/PIQ784
+Translator App:- https://goo.gl/gO5xNU
+Agarwal Samaj App:-https://goo.gl/jghZ1M</string>
+</resources>
