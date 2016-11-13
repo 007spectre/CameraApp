@@ -39,12 +39,15 @@ Kinvey Account detail:-
   <tr>
     <td><img src="https://github.com/007spectre/CameraApp/blob/master/ScreenShots/Screenshot_2016-11-13-01-28-58.png"></td>
     <td><img src="https://github.com/007spectre/CameraApp/blob/master/ScreenShots/Screenshot_2016-11-13-01-29-07.png"></td>
-    <td><img src="https://github.com/007spectre/CameraApp/blob/master/ScreenShots/Screenshot_2016-11-13-13-04-49.png"></td>
+    <td><img src="https://github.com/007spectre/CameraApp/blob/master/ScreenShots/Screenshot_2016-11-13-13-05-55.png"></td>
+    
   </tr>
   </table>
   <table>
   <tr>
-    <td><img src="https://github.com/007spectre/CameraApp/blob/master/ScreenShots/Screenshot_2016-11-13-13-05-55.png"></td>
+    <td><img src="https://github.com/007spectre/CameraApp/blob/master/ScreenShots/Screenshot_2016-11-13-13-04-49.png"></td>
+        <td><img src="https://github.com/007spectre/CameraApp/blob/master/ScreenShots/Screenshot_2016-11-13-13-59-39.png"></td>
+
 
 
   </tr>
